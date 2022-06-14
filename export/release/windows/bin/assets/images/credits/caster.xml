@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="caster.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="caster0000" x="0" y="0" width="328" height="366"/>
+	<SubTexture name="caster0001" x="0" y="0" width="328" height="366"/>
+	<SubTexture name="caster selecte0000" x="328" y="0" width="368" height="428"/>
+	<SubTexture name="caster selecte0001" x="328" y="0" width="368" height="428"/>
+</TextureAtlas>

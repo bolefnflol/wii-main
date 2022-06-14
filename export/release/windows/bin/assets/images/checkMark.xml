@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="checkMark.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="non selected instance 10000" x="0" y="0" width="56" height="56" frameX="0" frameY="-15" frameWidth="62" frameHeight="71"/>
+	<SubTexture name="non selected instance 10001" x="56" y="0" width="62" height="71"/>
+	<SubTexture name="non selected instance 10002" x="56" y="0" width="62" height="71"/>
+	<SubTexture name="non selected instance 10003" x="56" y="0" width="62" height="71"/>
+	<SubTexture name="non selected instance 10004" x="56" y="0" width="62" height="71"/>
+	<SubTexture name="non selected instance 10005" x="56" y="0" width="62" height="71"/>
+</TextureAtlas>

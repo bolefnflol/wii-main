@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="wiishopchanneldefault.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="wii shop instance 10000" x="0" y="0" width="1280" height="718"/>
+	<SubTexture name="wii shop instance 10001" x="0" y="0" width="1280" height="718"/>
+	<SubTexture name="wii shop instance 10002" x="1280" y="0" width="1280" height="718"/>
+	<SubTexture name="wii shop instance 10003" x="1280" y="0" width="1280" height="718"/>
+	<SubTexture name="wii shop instance 10004" x="2560" y="0" width="1280" height="718"/>
+	<SubTexture name="wii shop instance 10005" x="2560" y="0" width="1280" height="718"/>
+	<SubTexture name="wii shop instance 10006" x="0" y="718" width="1280" height="718"/>
+	<SubTexture name="wii shop instance 10007" x="0" y="718" width="1280" height="718"/>
+	<SubTexture name="wii shop instance 10008" x="1280" y="718" width="1280" height="718"/>
+	<SubTexture name="wii shop instance 10009" x="1280" y="718" width="1280" height="718"/>
+	<SubTexture name="wii shop instance 10010" x="2560" y="718" width="1280" height="718"/>
+	<SubTexture name="wii shop instance 10011" x="2560" y="718" width="1280" height="718"/>
+	<SubTexture name="wii shop instance 10012" x="0" y="1436" width="1280" height="718"/>
+	<SubTexture name="wii shop instance 10013" x="0" y="1436" width="1280" height="718"/>
+	<SubTexture name="wii shop instance 10014" x="1280" y="1436" width="1280" height="718"/>
+	<SubTexture name="wii shop instance 10015" x="1280" y="1436" width="1280" height="718"/>
+	<SubTexture name="wii shop instance 10016" x="2560" y="1436" width="1280" height="718"/>
+	<SubTexture name="wii shop instance 10017" x="2560" y="1436" width="1280" height="718"/>
+</TextureAtlas>

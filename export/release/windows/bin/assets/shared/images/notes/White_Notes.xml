@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="White_Notes.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="downStatic0000" x="0" y="0" width="157" height="154"/>
+	<SubTexture name="downConfirm0000" x="157" y="0" width="238" height="234"/>
+	<SubTexture name="downConfirm0001" x="395" y="0" width="238" height="234"/>
+	<SubTexture name="downConfirm0002" x="633" y="0" width="220" height="216" frameX="-6" frameY="-12" frameWidth="238" frameHeight="234"/>
+	<SubTexture name="downConfirm0003" x="633" y="0" width="220" height="216" frameX="-6" frameY="-12" frameWidth="238" frameHeight="234"/>
+	<SubTexture name="upStatic0000" x="853" y="0" width="157" height="154"/>
+	<SubTexture name="leftConfirm0000" x="0" y="234" width="228" height="231"/>
+	<SubTexture name="leftConfirm0001" x="228" y="234" width="218" height="220" frameX="-5" frameY="-6" frameWidth="228" frameHeight="231"/>
+	<SubTexture name="leftConfirm0002" x="446" y="234" width="225" height="227" frameX="-2" frameY="-2" frameWidth="228" frameHeight="231"/>
+	<SubTexture name="leftConfirm0003" x="446" y="234" width="225" height="227" frameX="-2" frameY="-2" frameWidth="228" frameHeight="231"/>
+	<SubTexture name="leftStatic0000" x="671" y="234" width="154" height="157"/>
+	<SubTexture name="holdEnd0000" x="825" y="234" width="50" height="64"/>
+	<SubTexture name="holdPiece0000" x="875" y="234" width="50" height="44"/>
+	<SubTexture name="rightConfirm0000" x="0" y="465" width="223" height="226" frameX="-1" frameY="-3" frameWidth="226" frameHeight="230"/>
+	<SubTexture name="rightConfirm0001" x="223" y="465" width="223" height="226" frameX="-1" frameY="-3" frameWidth="226" frameHeight="230"/>
+	<SubTexture name="rightConfirm0002" x="446" y="465" width="226" height="230"/>
+	<SubTexture name="rightConfirm0003" x="446" y="465" width="226" height="230"/>
+	<SubTexture name="upConfirm0000" x="672" y="465" width="235" height="233"/>
+	<SubTexture name="upConfirm0001" x="0" y="698" width="235" height="233"/>
+	<SubTexture name="upConfirm0002" x="235" y="698" width="213" height="211" frameX="-11" frameY="-11" frameWidth="235" frameHeight="233"/>
+	<SubTexture name="upConfirm0003" x="235" y="698" width="213" height="211" frameX="-11" frameY="-11" frameWidth="235" frameHeight="233"/>
+	<SubTexture name="rightStatic0000" x="448" y="698" width="154" height="157"/>
+</TextureAtlas>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="RemoteTitle.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="remote0000" x="0" y="0" width="332" height="602"/>
+	<SubTexture name="remote0001" x="0" y="0" width="332" height="602"/>
+	<SubTexture name="remote0002" x="332" y="0" width="332" height="602"/>
+	<SubTexture name="remote0003" x="332" y="0" width="332" height="602"/>
+	<SubTexture name="remote0004" x="664" y="0" width="332" height="602"/>
+	<SubTexture name="remote0005" x="664" y="0" width="332" height="602"/>
+	<SubTexture name="remote0006" x="996" y="0" width="332" height="602"/>
+	<SubTexture name="remote0007" x="996" y="0" width="332" height="602"/>
+</TextureAtlas>

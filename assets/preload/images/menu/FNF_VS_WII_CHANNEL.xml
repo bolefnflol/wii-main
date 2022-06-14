@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FNF_VS_WII_CHANNEL.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fnfvswii instance 10000" x="0" y="0" width="1283" height="718"/>
+	<SubTexture name="fnfvswii instance 10001" x="1283" y="0" width="1283" height="718"/>
+	<SubTexture name="fnfvswii instance 10002" x="2566" y="0" width="1283" height="718"/>
+	<SubTexture name="fnfvswii instance 10003" x="0" y="718" width="1283" height="718"/>
+</TextureAtlas>

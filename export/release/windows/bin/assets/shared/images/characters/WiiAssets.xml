@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="WiiAssets.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="wii down0000" x="0" y="0" width="755" height="462"/>
+	<SubTexture name="wii down0001" x="0" y="0" width="755" height="462"/>
+	<SubTexture name="wii down0002" x="755" y="0" width="755" height="462"/>
+	<SubTexture name="wii down0003" x="755" y="0" width="755" height="462"/>
+	<SubTexture name="wii down0004" x="755" y="0" width="755" height="462"/>
+	<SubTexture name="wii down0005" x="755" y="0" width="755" height="462"/>
+	<SubTexture name="wii down0006" x="755" y="0" width="755" height="462"/>
+	<SubTexture name="wii down0007" x="755" y="0" width="755" height="462"/>
+	<SubTexture name="wii down0008" x="755" y="0" width="755" height="462"/>
+	<SubTexture name="wii down0009" x="755" y="0" width="755" height="462"/>
+	<SubTexture name="wii idle0000" x="1510" y="0" width="619" height="532"/>
+	<SubTexture name="wii idle0001" x="1510" y="0" width="619" height="532"/>
+	<SubTexture name="wii idle0002" x="2129" y="0" width="619" height="532"/>
+	<SubTexture name="wii idle0003" x="2129" y="0" width="619" height="532"/>
+	<SubTexture name="wii idle0004" x="2748" y="0" width="619" height="532"/>
+	<SubTexture name="wii idle0005" x="2748" y="0" width="619" height="532"/>
+	<SubTexture name="wii idle0006" x="3367" y="0" width="619" height="532"/>
+	<SubTexture name="wii idle0007" x="3986" y="0" width="619" height="532"/>
+	<SubTexture name="wii idle0008" x="3986" y="0" width="619" height="532"/>
+	<SubTexture name="wii idle0009" x="3986" y="0" width="619" height="532"/>
+	<SubTexture name="wii left0000" x="4605" y="0" width="496" height="555"/>
+	<SubTexture name="wii left0001" x="4605" y="0" width="496" height="555"/>
+	<SubTexture name="wii left0002" x="5101" y="0" width="496" height="555"/>
+	<SubTexture name="wii left0003" x="5101" y="0" width="496" height="555"/>
+	<SubTexture name="wii left0004" x="5101" y="0" width="496" height="555"/>
+	<SubTexture name="wii left0005" x="5101" y="0" width="496" height="555"/>
+	<SubTexture name="wii left0006" x="5101" y="0" width="496" height="555"/>
+	<SubTexture name="wii left0007" x="5101" y="0" width="496" height="555"/>
+	<SubTexture name="wii left0008" x="5101" y="0" width="496" height="555"/>
+	<SubTexture name="wii left0009" x="5101" y="0" width="496" height="555"/>
+	<SubTexture name="wii right0000" x="5597" y="0" width="476" height="561"/>
+	<SubTexture name="wii right0001" x="5597" y="0" width="476" height="561"/>
+	<SubTexture name="wii right0002" x="6073" y="0" width="476" height="561"/>
+	<SubTexture name="wii right0003" x="6073" y="0" width="476" height="561"/>
+	<SubTexture name="wii right0004" x="6073" y="0" width="476" height="561"/>
+	<SubTexture name="wii right0005" x="6073" y="0" width="476" height="561"/>
+	<SubTexture name="wii right0006" x="6073" y="0" width="476" height="561"/>
+	<SubTexture name="wii right0007" x="6073" y="0" width="476" height="561"/>
+	<SubTexture name="wii throw0000" x="6549" y="0" width="1642" height="543"/>
+	<SubTexture name="wii throw0001" x="0" y="561" width="1642" height="543"/>
+	<SubTexture name="wii throw0002" x="1642" y="561" width="1642" height="543"/>
+	<SubTexture name="wii throw0003" x="3284" y="561" width="1642" height="543"/>
+	<SubTexture name="wii throw0004" x="4926" y="561" width="1642" height="543"/>
+	<SubTexture name="wii throw0005" x="4926" y="561" width="1642" height="543"/>
+	<SubTexture name="wii throw0006" x="0" y="1104" width="1642" height="543"/>
+	<SubTexture name="wii throw0007" x="1642" y="1104" width="1642" height="543"/>
+	<SubTexture name="wii throw0008" x="3284" y="1104" width="1642" height="543"/>
+	<SubTexture name="wii throw0009" x="4926" y="1104" width="1642" height="543"/>
+	<SubTexture name="wii throw0010" x="0" y="1647" width="1642" height="543"/>
+	<SubTexture name="wii throw0011" x="1642" y="1647" width="1642" height="543"/>
+	<SubTexture name="wii throw0012" x="3284" y="1647" width="1642" height="543"/>
+	<SubTexture name="wii up0000" x="4926" y="1647" width="445" height="621"/>
+	<SubTexture name="wii up0001" x="4926" y="1647" width="445" height="621"/>
+	<SubTexture name="wii up0002" x="5371" y="1647" width="445" height="621"/>
+	<SubTexture name="wii up0003" x="5371" y="1647" width="445" height="621"/>
+	<SubTexture name="wii up0004" x="5371" y="1647" width="445" height="621"/>
+	<SubTexture name="wii up0005" x="5371" y="1647" width="445" height="621"/>
+	<SubTexture name="wii up0006" x="5371" y="1647" width="445" height="621"/>
+	<SubTexture name="wii up0007" x="5371" y="1647" width="445" height="621"/>
+	<SubTexture name="wii up0008" x="5371" y="1647" width="445" height="621"/>
+	<SubTexture name="wii up0009" x="5371" y="1647" width="445" height="621"/>
+</TextureAtlas>

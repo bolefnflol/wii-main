@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="CharSelection.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="charsChannel instance 10000" x="0" y="0" width="285" height="157"/>
+	<SubTexture name="charsChannel instance 10001" x="285" y="0" width="285" height="157"/>
+	<SubTexture name="charsChannel instance 10002" x="570" y="0" width="285" height="157"/>
+	<SubTexture name="charsChannel instance 10003" x="0" y="157" width="285" height="157"/>
+	<SubTexture name="charsChannel instance 10004" x="285" y="157" width="285" height="157"/>
+	<SubTexture name="charsChannel instance 10005" x="570" y="157" width="285" height="157"/>
+	<SubTexture name="charsChannel instance 10006" x="0" y="314" width="285" height="157"/>
+	<SubTexture name="charsChannel instance 10007" x="285" y="314" width="285" height="157"/>
+	<SubTexture name="charsChannel instance 10008" x="570" y="314" width="285" height="157"/>
+	<SubTexture name="charsChannel instance 10009" x="0" y="471" width="285" height="157"/>
+	<SubTexture name="charsChannel instance 10010" x="285" y="471" width="285" height="157"/>
+	<SubTexture name="charsChannel instance 10011" x="570" y="471" width="285" height="157"/>
+	<SubTexture name="charsChannel instance 10012" x="0" y="628" width="285" height="157"/>
+	<SubTexture name="charsChannel instance 10013" x="285" y="628" width="285" height="157"/>
+	<SubTexture name="charsChannel instance 10014" x="0" y="0" width="285" height="157"/>
+</TextureAtlas>

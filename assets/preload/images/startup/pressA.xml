@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pressA.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="press a instance 10000" x="0" y="0" width="1280" height="733"/>
+	<SubTexture name="press a instance 10001" x="0" y="0" width="1280" height="733"/>
+	<SubTexture name="press a instance 10002" x="1280" y="0" width="1280" height="733"/>
+	<SubTexture name="press a instance 10003" x="1280" y="0" width="1280" height="733"/>
+	<SubTexture name="press a instance 10004" x="2560" y="0" width="1280" height="733"/>
+	<SubTexture name="press a instance 10005" x="2560" y="0" width="1280" height="733"/>
+	<SubTexture name="press a instance 10006" x="0" y="733" width="1280" height="733"/>
+	<SubTexture name="press a instance 10007" x="0" y="733" width="1280" height="733"/>
+	<SubTexture name="press a instance 10008" x="1280" y="733" width="1280" height="733"/>
+	<SubTexture name="press a instance 10009" x="1280" y="733" width="1280" height="733"/>
+	<SubTexture name="press a instance 10010" x="1280" y="733" width="1280" height="733"/>
+	<SubTexture name="press a instance 10011" x="1280" y="733" width="1280" height="733"/>
+	<SubTexture name="press a instance 10012" x="0" y="733" width="1280" height="733"/>
+	<SubTexture name="press a instance 10013" x="0" y="733" width="1280" height="733"/>
+	<SubTexture name="press a instance 10014" x="2560" y="0" width="1280" height="733"/>
+	<SubTexture name="press a instance 10015" x="2560" y="0" width="1280" height="733"/>
+	<SubTexture name="press a instance 10016" x="1280" y="0" width="1280" height="733"/>
+	<SubTexture name="press a instance 10017" x="1280" y="0" width="1280" height="733"/>
+	<SubTexture name="press a instance 10018" x="0" y="0" width="1280" height="733"/>
+	<SubTexture name="press a instance 10019" x="0" y="0" width="1280" height="733"/>
+</TextureAtlas>

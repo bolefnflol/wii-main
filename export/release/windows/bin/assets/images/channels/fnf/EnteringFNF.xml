@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="EnteringFNF.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fnf0000" x="0" y="0" width="1280" height="535"/>
+	<SubTexture name="fnf0001" x="1280" y="0" width="1280" height="535"/>
+	<SubTexture name="fnf0002" x="2560" y="0" width="1280" height="535"/>
+	<SubTexture name="fnf0003" x="0" y="535" width="1280" height="535"/>
+</TextureAtlas>

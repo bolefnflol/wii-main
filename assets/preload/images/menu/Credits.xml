@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Credits.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="creditsChannel instance 10000" x="0" y="0" width="1283" height="719"/>
+	<SubTexture name="creditsChannel instance 10001" x="1283" y="0" width="1283" height="719"/>
+	<SubTexture name="creditsChannel instance 10002" x="2566" y="0" width="1283" height="719"/>
+	<SubTexture name="creditsChannel instance 10003" x="3849" y="0" width="1283" height="719"/>
+	<SubTexture name="creditsChannel instance 10004" x="5132" y="0" width="1283" height="719"/>
+	<SubTexture name="creditsChannel instance 10005" x="6415" y="0" width="1283" height="719"/>
+	<SubTexture name="creditsChannel instance 10006" x="0" y="719" width="1283" height="719"/>
+	<SubTexture name="creditsChannel instance 10007" x="1283" y="719" width="1283" height="719"/>
+	<SubTexture name="creditsChannel instance 10008" x="2566" y="719" width="1283" height="719"/>
+	<SubTexture name="creditsChannel instance 10009" x="3849" y="719" width="1283" height="719"/>
+	<SubTexture name="creditsChannel instance 10010" x="5132" y="719" width="1283" height="719"/>
+	<SubTexture name="creditsChannel instance 10011" x="6415" y="719" width="1283" height="719"/>
+	<SubTexture name="creditsChannel instance 10012" x="0" y="1438" width="1283" height="719"/>
+	<SubTexture name="creditsChannel instance 10013" x="1283" y="1438" width="1283" height="719"/>
+	<SubTexture name="creditsChannel instance 10014" x="2566" y="1438" width="1283" height="719"/>
+	<SubTexture name="creditsChannel instance 10015" x="3849" y="1438" width="1283" height="719"/>
+	<SubTexture name="creditsChannel instance 10016" x="5132" y="1438" width="1283" height="719"/>
+	<SubTexture name="creditsChannel instance 10017" x="6415" y="1438" width="1283" height="719"/>
+	<SubTexture name="creditsChannel instance 10018" x="0" y="2157" width="1283" height="719"/>
+	<SubTexture name="creditsChannel instance 10019" x="0" y="2157" width="1283" height="719"/>
+</TextureAtlas>

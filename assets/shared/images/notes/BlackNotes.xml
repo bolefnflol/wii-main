@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BlackNotes.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blackDown0000" x="0" y="0" width="157" height="154"/>
+	<SubTexture name="blackLeft0000" x="157" y="0" width="154" height="157"/>
+	<SubTexture name="blackNoteEnd0000" x="311" y="0" width="50" height="64"/>
+	<SubTexture name="blackNotePiece0000" x="361" y="0" width="50" height="44"/>
+	<SubTexture name="blackRight0000" x="0" y="157" width="154" height="157"/>
+	<SubTexture name="blackUp0000" x="154" y="157" width="157" height="154"/>
+</TextureAtlas>

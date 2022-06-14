@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="freeplay.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="freeplay instance 10000" x="0" y="0" width="538" height="214"/>
+	<SubTexture name="freeplay instance 10001" x="0" y="0" width="538" height="214"/>
+	<SubTexture name="freeplay instance 10002" x="538" y="0" width="483" height="186" frameX="-28" frameY="-14" frameWidth="538" frameHeight="214"/>
+	<SubTexture name="freeplay instance 10003" x="538" y="0" width="483" height="186" frameX="-28" frameY="-14" frameWidth="538" frameHeight="214"/>
+	<SubTexture name="freeplay instance 10004" x="0" y="214" width="461" height="167" frameX="-39" frameY="-23" frameWidth="538" frameHeight="214"/>
+	<SubTexture name="freeplay instance 10005" x="0" y="214" width="461" height="167" frameX="-39" frameY="-23" frameWidth="538" frameHeight="214"/>
+	<SubTexture name="freeplay instance 10006" x="0" y="214" width="461" height="167" frameX="-39" frameY="-23" frameWidth="538" frameHeight="214"/>
+	<SubTexture name="freeplay instance 10007" x="0" y="214" width="461" height="167" frameX="-39" frameY="-23" frameWidth="538" frameHeight="214"/>
+	<SubTexture name="freeplay instance 10008" x="0" y="214" width="461" height="167" frameX="-39" frameY="-23" frameWidth="538" frameHeight="214"/>
+	<SubTexture name="freeplay instance 10009" x="0" y="214" width="461" height="167" frameX="-39" frameY="-23" frameWidth="538" frameHeight="214"/>
+	<SubTexture name="freeplay instance 10010" x="0" y="214" width="461" height="167" frameX="-39" frameY="-23" frameWidth="538" frameHeight="214"/>
+	<SubTexture name="freeplay instance 10011" x="0" y="214" width="461" height="167" frameX="-39" frameY="-23" frameWidth="538" frameHeight="214"/>
+	<SubTexture name="freeplay instance 10012" x="0" y="214" width="461" height="167" frameX="-39" frameY="-23" frameWidth="538" frameHeight="214"/>
+	<SubTexture name="freeplay instance 10013" x="0" y="214" width="461" height="167" frameX="-39" frameY="-23" frameWidth="538" frameHeight="214"/>
+	<SubTexture name="freeplay instance 10014" x="0" y="214" width="461" height="167" frameX="-39" frameY="-23" frameWidth="538" frameHeight="214"/>
+	<SubTexture name="freeplay instance 10015" x="0" y="214" width="461" height="167" frameX="-39" frameY="-23" frameWidth="538" frameHeight="214"/>
+	<SubTexture name="freeplay instance 10016" x="0" y="214" width="461" height="167" frameX="-39" frameY="-23" frameWidth="538" frameHeight="214"/>
+	<SubTexture name="freeplay instance 10017" x="0" y="214" width="461" height="167" frameX="-39" frameY="-23" frameWidth="538" frameHeight="214"/>
+	<SubTexture name="freeplay instance 10018" x="0" y="214" width="461" height="167" frameX="-39" frameY="-23" frameWidth="538" frameHeight="214"/>
+	<SubTexture name="freeplay instance 10019" x="0" y="214" width="461" height="167" frameX="-39" frameY="-23" frameWidth="538" frameHeight="214"/>
+	<SubTexture name="freeplay instance 10020" x="0" y="214" width="461" height="167" frameX="-39" frameY="-23" frameWidth="538" frameHeight="214"/>
+	<SubTexture name="freeplay instance 10021" x="0" y="214" width="461" height="167" frameX="-39" frameY="-23" frameWidth="538" frameHeight="214"/>
+	<SubTexture name="freeplay instance 10022" x="0" y="214" width="461" height="167" frameX="-39" frameY="-23" frameWidth="538" frameHeight="214"/>
+	<SubTexture name="freeplay instance 10023" x="0" y="214" width="461" height="167" frameX="-39" frameY="-23" frameWidth="538" frameHeight="214"/>
+	<SubTexture name="freeplay instance 10024" x="0" y="214" width="461" height="167" frameX="-39" frameY="-23" frameWidth="538" frameHeight="214"/>
+	<SubTexture name="freeplay instance 10025" x="0" y="214" width="461" height="167" frameX="-39" frameY="-23" frameWidth="538" frameHeight="214"/>
+	<SubTexture name="freeplay instance 10026" x="0" y="214" width="461" height="167" frameX="-39" frameY="-23" frameWidth="538" frameHeight="214"/>
+	<SubTexture name="freeplay instance 10027" x="0" y="214" width="461" height="167" frameX="-39" frameY="-23" frameWidth="538" frameHeight="214"/>
+	<SubTexture name="freeplay instance 10028" x="0" y="214" width="461" height="167" frameX="-39" frameY="-23" frameWidth="538" frameHeight="214"/>
+	<SubTexture name="freeplay instance 10029" x="0" y="214" width="461" height="167" frameX="-39" frameY="-23" frameWidth="538" frameHeight="214"/>
+</TextureAtlas>

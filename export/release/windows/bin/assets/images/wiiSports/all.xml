@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="all.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cover idle0000" x="0" y="0" width="297" height="447" frameX="0" frameY="0" frameWidth="297" frameHeight="462"/>
+	<SubTexture name="cover idle0001" x="0" y="0" width="297" height="447" frameX="0" frameY="-1" frameWidth="297" frameHeight="462"/>
+	<SubTexture name="cover idle0002" x="0" y="0" width="297" height="447" frameX="0" frameY="-2" frameWidth="297" frameHeight="462"/>
+	<SubTexture name="cover idle0003" x="0" y="0" width="297" height="447" frameX="0" frameY="-3" frameWidth="297" frameHeight="462"/>
+	<SubTexture name="cover idle0004" x="0" y="0" width="297" height="447" frameX="0" frameY="-4" frameWidth="297" frameHeight="462"/>
+	<SubTexture name="cover idle0005" x="0" y="0" width="297" height="447" frameX="0" frameY="-5" frameWidth="297" frameHeight="462"/>
+	<SubTexture name="cover idle0006" x="0" y="0" width="297" height="447" frameX="0" frameY="-6" frameWidth="297" frameHeight="462"/>
+	<SubTexture name="cover idle0007" x="0" y="0" width="297" height="447" frameX="0" frameY="-7" frameWidth="297" frameHeight="462"/>
+	<SubTexture name="cover idle0008" x="0" y="0" width="297" height="447" frameX="0" frameY="-8" frameWidth="297" frameHeight="462"/>
+	<SubTexture name="cover idle0009" x="0" y="0" width="297" height="447" frameX="0" frameY="-9" frameWidth="297" frameHeight="462"/>
+	<SubTexture name="cover idle0010" x="0" y="0" width="297" height="447" frameX="0" frameY="-10" frameWidth="297" frameHeight="462"/>
+	<SubTexture name="cover idle0011" x="0" y="0" width="297" height="447" frameX="0" frameY="-11" frameWidth="297" frameHeight="462"/>
+	<SubTexture name="cover idle0012" x="0" y="0" width="297" height="447" frameX="0" frameY="-12" frameWidth="297" frameHeight="462"/>
+	<SubTexture name="cover idle0013" x="0" y="0" width="297" height="447" frameX="0" frameY="-13" frameWidth="297" frameHeight="462"/>
+	<SubTexture name="cover idle0014" x="0" y="0" width="297" height="447" frameX="0" frameY="-15" frameWidth="297" frameHeight="462"/>
+	<SubTexture name="cover idle0015" x="0" y="0" width="297" height="447" frameX="0" frameY="-14" frameWidth="297" frameHeight="462"/>
+	<SubTexture name="cover idle0016" x="0" y="0" width="297" height="447" frameX="0" frameY="-13" frameWidth="297" frameHeight="462"/>
+	<SubTexture name="cover idle0017" x="0" y="0" width="297" height="447" frameX="0" frameY="-12" frameWidth="297" frameHeight="462"/>
+	<SubTexture name="cover idle0018" x="0" y="0" width="297" height="447" frameX="0" frameY="-11" frameWidth="297" frameHeight="462"/>
+	<SubTexture name="cover idle0019" x="0" y="0" width="297" height="447" frameX="0" frameY="-10" frameWidth="297" frameHeight="462"/>
+	<SubTexture name="cover idle0020" x="0" y="0" width="297" height="447" frameX="0" frameY="-9" frameWidth="297" frameHeight="462"/>
+	<SubTexture name="cover idle0021" x="0" y="0" width="297" height="447" frameX="0" frameY="-8" frameWidth="297" frameHeight="462"/>
+	<SubTexture name="cover idle0022" x="0" y="0" width="297" height="447" frameX="0" frameY="-7" frameWidth="297" frameHeight="462"/>
+	<SubTexture name="cover idle0023" x="0" y="0" width="297" height="447" frameX="0" frameY="-6" frameWidth="297" frameHeight="462"/>
+	<SubTexture name="cover idle0024" x="0" y="0" width="297" height="447" frameX="0" frameY="-5" frameWidth="297" frameHeight="462"/>
+	<SubTexture name="cover idle0025" x="0" y="0" width="297" height="447" frameX="0" frameY="-4" frameWidth="297" frameHeight="462"/>
+	<SubTexture name="cover idle0026" x="0" y="0" width="297" height="447" frameX="0" frameY="-3" frameWidth="297" frameHeight="462"/>
+	<SubTexture name="cover idle0027" x="0" y="0" width="297" height="447" frameX="0" frameY="-2" frameWidth="297" frameHeight="462"/>
+	<SubTexture name="cover idle0028" x="0" y="0" width="297" height="447" frameX="0" frameY="-1" frameWidth="297" frameHeight="462"/>
+	<SubTexture name="cover idle0029" x="0" y="0" width="297" height="447" frameX="0" frameY="0" frameWidth="297" frameHeight="462"/>
+	<SubTexture name="reveL0000" x="0" y="0" width="297" height="447" frameX="-268" frameY="0" frameWidth="297" frameHeight="462"/>
+	<SubTexture name="reveL0001" x="297" y="0" width="317" height="447" frameX="-248" frameY="0" frameWidth="565" frameHeight="447"/>
+	<SubTexture name="reveL0002" x="614" y="0" width="338" height="447" frameX="-227" frameY="0" frameWidth="565" frameHeight="447"/>
+	<SubTexture name="reveL0003" x="952" y="0" width="359" height="447" frameX="-206" frameY="0" frameWidth="565" frameHeight="447"/>
+	<SubTexture name="reveL0004" x="1311" y="0" width="379" height="447" frameX="-186" frameY="0" frameWidth="565" frameHeight="447"/>
+	<SubTexture name="reveL0005" x="1690" y="0" width="400" height="447" frameX="-165" frameY="0" frameWidth="565" frameHeight="447"/>
+	<SubTexture name="reveL0006" x="2090" y="0" width="421" height="447" frameX="-144" frameY="0" frameWidth="565" frameHeight="447"/>
+	<SubTexture name="reveL0007" x="2511" y="0" width="441" height="447" frameX="-124" frameY="0" frameWidth="565" frameHeight="447"/>
+	<SubTexture name="reveL0008" x="2952" y="0" width="462" height="447" frameX="-103" frameY="0" frameWidth="565" frameHeight="447"/>
+	<SubTexture name="reveL0009" x="3414" y="0" width="483" height="447" frameX="-82" frameY="0" frameWidth="565" frameHeight="447"/>
+	<SubTexture name="reveL0010" x="0" y="447" width="503" height="447" frameX="-62" frameY="0" frameWidth="565" frameHeight="447"/>
+	<SubTexture name="reveL0011" x="503" y="447" width="524" height="447" frameX="-41" frameY="0" frameWidth="565" frameHeight="447"/>
+	<SubTexture name="reveL0012" x="1027" y="447" width="545" height="447" frameX="-20" frameY="0" frameWidth="565" frameHeight="447"/>
+	<SubTexture name="reveL0013" x="1572" y="447" width="565" height="447"/>
+	<SubTexture name="revel zoom0000" x="2137" y="447" width="565" height="447" frameX="0" frameY="-170" frameWidth="711" frameHeight="1108"/>
+	<SubTexture name="revel zoom0001" x="2702" y="447" width="565" height="448" frameX="0" frameY="-214" frameWidth="711" frameHeight="1108"/>
+	<SubTexture name="revel zoom0002" x="3267" y="447" width="565" height="510" frameX="0" frameY="-197" frameWidth="711" frameHeight="1108"/>
+	<SubTexture name="revel zoom0003" x="0" y="957" width="564" height="578" frameX="0" frameY="-173" frameWidth="711" frameHeight="1108"/>
+	<SubTexture name="revel zoom0004" x="564" y="957" width="564" height="647" frameX="0" frameY="-149" frameWidth="711" frameHeight="1108"/>
+	<SubTexture name="revel zoom0005" x="1128" y="957" width="711" height="840" frameX="0" frameY="0" frameWidth="711" frameHeight="1108"/>
+	<SubTexture name="revel zoom0006" x="1839" y="957" width="711" height="885" frameX="0" frameY="0" frameWidth="711" frameHeight="1108"/>
+	<SubTexture name="revel zoom0007" x="2550" y="957" width="711" height="930" frameX="0" frameY="0" frameWidth="711" frameHeight="1108"/>
+	<SubTexture name="revel zoom0008" x="3261" y="957" width="711" height="974" frameX="0" frameY="0" frameWidth="711" frameHeight="1108"/>
+	<SubTexture name="revel zoom0009" x="0" y="1931" width="711" height="1019" frameX="0" frameY="0" frameWidth="711" frameHeight="1108"/>
+	<SubTexture name="revel zoom0010" x="711" y="1931" width="711" height="1063" frameX="0" frameY="0" frameWidth="711" frameHeight="1108"/>
+	<SubTexture name="revel zoom0011" x="1422" y="1931" width="711" height="1108"/>
+	<SubTexture name="revel zoom0012" x="1422" y="1931" width="711" height="1108"/>
+	<SubTexture name="revel zoom0013" x="1422" y="1931" width="711" height="1108"/>
+	<SubTexture name="revel zoom0014" x="1422" y="1931" width="711" height="1108"/>
+</TextureAtlas>
